@@ -86,7 +86,7 @@ author:
   location         : "Rio de Janeiro - Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=_-k1Fd4AAAAJ"
   email            : "t.mendesdantas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
