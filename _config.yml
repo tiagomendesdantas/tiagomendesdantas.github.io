@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tiago Dantas"
   avatar           : "tiago.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D in Industrial Engineering, Ms.c in Electrical Engineering, BS in Statistics"
   location         : "Rio de Janeiro - Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tiagomendesdantas"
+  github           : "tiagomendesdantas"
   google_plus      :
   keybase          :
   instagram        :
