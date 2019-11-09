@@ -1,5 +1,5 @@
 ---
-title: "Social Network analysis usin R
+title: "Social Network analysis using R"
 collection: teaching
 type: "Extension Course"
 permalink: /teaching/SNA
